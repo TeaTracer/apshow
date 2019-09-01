@@ -2,7 +2,11 @@
 Visualization of site->subsite->appversion graph in various colors based on membership in subsets.
 
 It will have several visualization modes.
-First one in [JQ](https://github.com/stedolan/jq)-llke mode. Output is a colored JSON opened in terminal using paginator.
+
+First one is [JQ](https://github.com/stedolan/jq)-llke mode.
+Output is a colored JSON opened in terminal using paginator.
+It also could be redirected to output file.
+
 Other possible modes:
 * PNG-image with infographics
 * Excel-table
