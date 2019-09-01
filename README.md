@@ -1,7 +1,12 @@
 # Description
 Visualization of site->subsite->appversion graph in various colors based on membership in subsets.
 
+It will have several visualization modes.
+First one in JQ-like mode. Output is a colored JSON opened in terminal using paginator.
+
+
 # Usage
+It's a binary CLI tools. Use it in terminal.
 ***
 ```
 apshow --query
