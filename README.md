@@ -10,7 +10,7 @@ Other possible modes:
 
 
 # Usage
-It's a binary CLI tools. Use it in terminal.
+It's a binary CLI tool. Use it in your terminal.
 ***
 ```
 apshow --query
