@@ -37,3 +37,8 @@ Print the appversion\`s graph paited with two colors. Branches are joined based 
 6. Standartize the output in order to have an opportunity to compare different outputs
 7. Add pagination to JQ-like mode
 8. Prepare MVP: add documentation and examples
+  
+# Ideas
+
+1. Use default location of <init graph file> like ~/.apshow and get rid of first positional argument
+2. Use a mode for working with database directly (for those who have an access)
