@@ -35,8 +35,8 @@ Print the appversion\`s graph paited with two colors. Branches are joined based 
 
 1. Write SQL for --query
 2. Write simple Go program that could parse SQL output (PostgerSQL\`s psql tool) and print it
-3. Handle <init graph file> and <appversion subset file> flags and print them to console
-4. Use color to highlight <init graph file>\`s appversions contained in <appversion subset file>
+3. Handle \<init graph file> and \<appversion subset file> flags and print them to console
+4. Use color to highlight \<init graph file>\`s appversions contained in \<appversion subset file>
 5. Add algorithm which is able to hide branches of single color
 6. Standartize the output in order to have an opportunity to compare different outputs
 7. Add pagination to JQ-like mode
@@ -44,5 +44,5 @@ Print the appversion\`s graph paited with two colors. Branches are joined based 
   
 # Ideas
 
-1. Use default location of <init graph file> like ~/.apshow and get rid of first positional argument
+1. Use default location of \<init graph file> like ~/.apshow and get rid of first positional argument
 2. Use a mode for working with database directly (for those who have an access)
